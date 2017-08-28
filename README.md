@@ -26,3 +26,8 @@ Ah, o código do git é aberto. Livre, Grátis. Sem limite de repositórios, pú
 ## você vai precisar de:
 1. Windows, OS X, Linux
 2. ~~cli tools~~
+3. ~~SSH / sudo apt-get install git~~
+4. Testar o workflow que mais lhe agradar:
+1. Git Kraken/ GitHub Desktop?
+[Imgur](http://i.imgur.com/txQdpMm.gifv)
+2. Desenvolvimento integrado?
